@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Short introduction about myself
 
 Hello, 
 
@@ -9,6 +9,6 @@ in the field of cybersecurtiy.
 
 I am looking for an analyst's position in a Security Operations Center to intern for or
 a penetration testing position. If you are interested in learining more about me, you may
-look at projects here or look at my linkedIn profile for my contact information.
+look at my projects here or look at my linkedIn profile for my contact information.
 
 Thank You
